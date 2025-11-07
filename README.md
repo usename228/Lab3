@@ -39,8 +39,9 @@
 
    7. Для перевірки вихідних значень скористажмость функцією відлагоджування в STM32CubeIDE.
       
-      https://github.com/user-attachments/assets/23bac95f-a203-497d-a41a-8a566d3da7b2
-      
+      https://github.com/user-attachments/assets/23e3bdc6-b1e9-4146-a826-c853a6d74e6b
+
+
 
 
 
