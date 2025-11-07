@@ -38,7 +38,7 @@
 
       <img width="471" height="71" alt="image" src="https://github.com/user-attachments/assets/10ecd7a2-cea1-439f-85d8-5f350b149928" />
 
- 7. Для перевірки вихідних значень скористажмость функцією відлагоджування в STM32CubeIDE.
+ 7. Для перевірки вихідних значень скористаємось функцією відлагоджування в STM32CubeIDE.
       
       https://github.com/user-attachments/assets/23e3bdc6-b1e9-4146-a826-c853a6d74e6b
 
