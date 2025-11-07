@@ -11,7 +11,7 @@
   ![IMG_1223](https://github.com/user-attachments/assets/ba20074e-9873-4999-b525-fbe71da986e7)
 
 
-3. Перейдемо до написанню кода, попередньо оголосивши небобхідні змінні глобально.
+3. Перейдемо до написанню кода, попередньо оголосивши необхідні змінні глобально.
    
    <img width="361" height="88" alt="image" src="https://github.com/user-attachments/assets/8cca6558-811b-4490-9133-a8b2e9af441f" />
 
